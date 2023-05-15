@@ -1,4 +1,4 @@
 # Recipe-app
 
 Find your favorite recipe :)
-Link:
+Link: https://asmirpljakic-recipe-app-js.netlify.app/
