@@ -1,2 +1,4 @@
-# recipe-app-js
-Recipe app
+# Recipe-app
+
+Find your favorite recipe :)
+Link:
